@@ -1,9 +1,8 @@
 {
     "name": "wizardweb/wizard-rmq-http-php",
     "type": "library",
-    "description": "Aliyun Message Queue(MQ) Http PHP SDK, PHP>=5.5.0",
-    "keywords": ["Aliyun","Alicloud", "MQ", "Message Queue", "Message", "Queue"],
-    "homepage": "https://github.com/aliyunmq/mq-http-php-sdk",
+    "description": "Wizard Aliyun RMQ Http PHP SDK, PHP>=5.5.0",
+    "homepage": "https://github.com/wangxu31/wizard-rmq",
     "license": "MIT",
     "require": {
         "php": ">=5.5.0",

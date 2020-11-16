@@ -47,7 +47,7 @@ class HttpClient
         $this->connectTimeout = $config->getConnectTimeout();
         $this->securityToken = $securityToken;
         $this->endpoint = $endPoint;
-        $this->agent = "mq-php-sdk/1.0.1(GuzzleHttp/" . " PHP/" . PHP_VERSION . ")";
+        $this->agent = "mq-php-sdk/1.0.1(GuzzleHttp PHP/" . PHP_VERSION . ")";
     }
 
     private function addRequiredHeaders(BaseRequest &$request)
